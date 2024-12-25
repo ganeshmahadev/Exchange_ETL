@@ -1,0 +1,49 @@
+
+2024-12-25 20:34:33,604 - INFO - Data extraction successful.
+2024-12-25 20:34:34,685 - INFO - Data transformation successful.
+2024-12-25 20:34:34,701 - INFO - Error saving data to CSV: [Errno 13] Permission denied: './Largest_banks_data.csv'
+2024-12-25 20:34:34,701 - INFO - Workflow execution failed: [Errno 13] Permission denied: './Largest_banks_data.csv'
+2024-12-25 20:46:35,262 - INFO - Starting data extraction
+2024-12-25 20:46:36,651 - INFO - Data extraction completed successfully
+2024-12-25 20:46:36,701 - INFO - Data transformation successful.
+2024-12-25 20:46:36,715 - INFO - Data saved to CSV at ./Largest_banks_data.csv.
+2024-12-25 20:46:36,731 - INFO - Data saved to database table Largest_banks.
+2024-12-25 20:46:36,748 - INFO - Query executed successfully.
+2024-12-25 20:50:44,028 - INFO - Starting data extraction
+2024-12-25 20:50:45,018 - INFO - Data extraction completed successfully
+2024-12-25 20:50:45,052 - INFO - Data transformation successful.
+2024-12-25 20:50:45,068 - INFO - Data saved to CSV at ./Largest_banks_data.csv.
+2024-12-25 20:50:45,092 - INFO - Data saved to database table Largest_banks.
+2024-12-25 20:50:45,108 - INFO - Query executed successfully.
+2024-12-25 21:08:07,650 - INFO - Starting data extraction
+2024-12-25 21:08:09,238 - INFO - Data extraction completed successfully
+2024-12-25 21:08:09,261 - INFO - Data transformation successful.
+2024-12-25 21:08:09,285 - INFO - Data saved to CSV at ./Largest_banks_data.csv.
+2024-12-25 21:08:09,354 - INFO - Data saved to database table Largest_banks.
+2024-12-25 21:08:09,388 - INFO - Query executed successfully.
+2024-12-25 21:09:32,536 - INFO - Starting data extraction
+2024-12-25 21:09:33,457 - INFO - Found 11 rows in the table
+2024-12-25 21:09:33,457 - INFO - Extracted 10 rows successfully
+2024-12-25 21:09:33,457 - INFO - Data extraction completed successfully
+2024-12-25 21:09:33,473 - INFO - Data transformation successful.
+2024-12-25 21:09:33,473 - INFO - Data saved to CSV at ./Largest_banks_data.csv.
+2024-12-25 21:09:33,500 - INFO - Data saved to database table Largest_banks.
+2024-12-25 21:09:33,505 - INFO - Query executed successfully.
+2024-12-25 21:24:38,430 - INFO - Starting data extraction
+2024-12-25 21:24:39,907 - INFO - Found 11 rows in the table
+2024-12-25 21:24:39,907 - INFO - Extracted 10 rows successfully
+2024-12-25 21:24:39,923 - INFO - Data extraction completed successfully
+2024-12-25 21:24:39,972 - INFO - Data transformation successful.
+2024-12-25 21:24:39,987 - INFO - Data saved to CSV at ./Largest_banks_data.csv.
+2024-12-25 21:24:40,013 - INFO - Data saved to database table Largest_banks.
+2024-12-25 21:24:40,019 - INFO - Query executed successfully.
+2024-12-25 21:37:54,821 - INFO - Starting data extraction
+2024-12-25 21:37:56,710 - INFO - Found 11 rows in the table
+2024-12-25 21:37:56,710 - INFO - Extracted 10 rows successfully
+2024-12-25 21:37:56,717 - INFO - Data extraction completed successfully
+2024-12-25 21:37:56,757 - INFO - Data transformation successful.
+2024-12-25 21:37:56,768 - INFO - Data saved to CSV at ./Largest_banks_data.csv.
+2024-12-25 21:37:56,798 - INFO - Data saved to database table Largest_banks.
+2024-12-25 21:37:56,808 - INFO - Query executed successfully.
+2024-12-25 21:37:56,808 - INFO - Query executed successfully.
+2024-12-25 21:37:56,810 - INFO - Query executed successfully.
